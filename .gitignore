@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Images are not yours to redistribute; embeddings and indexes are regenerable
+data/images/*
+!data/images/.gitkeep
+index/*
+!index/.gitkeep
+
+# Keep results/ committed: they are your evidence.
+.DS_Store
+.vscode/
+.idea/

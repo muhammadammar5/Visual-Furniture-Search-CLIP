@@ -1,0 +1,6 @@
+[
+  {"query": "grey 3-seater sofa", "relevant_categories": ["sofa"]},
+  {"query": "wooden dining table for six", "relevant_categories": ["table"]},
+  {"query": "comfortable office chair with wheels", "relevant_categories": ["chair", "swivelchair"]},
+  {"query": "king size bed with headboard", "relevant_categories": ["bed"]}
+]
